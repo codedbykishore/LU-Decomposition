@@ -58,6 +58,7 @@ print(solution)
 
 ## Output:
 ![Screenshot from 2023-12-20 20-39-33](https://github.com/codedbykishore/LU-Decomposition/assets/147139122/3d767783-23ca-4125-9bc1-cdb298e72c56)
+<br>
 ![Screenshot from 2023-12-20 20-41-53](https://github.com/codedbykishore/LU-Decomposition/assets/147139122/4b84f78f-a090-4947-b90b-b6172c09ffbd)
 
 
